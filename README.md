@@ -4,3 +4,8 @@ goals:
 
 description:
 - use open zeppelin and hardhat development to fork main net 
+
+steps: 
+- make a contract
+- deploy contract
+- connect to main net 
